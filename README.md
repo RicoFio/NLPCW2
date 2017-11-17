@@ -11,6 +11,6 @@ Currently the test for **Part A** is complete, although some words are not withi
 
 **Part C** *is waiting for implementation*.
 
-**Part D*** *is waiting for implementation*.
+**Part D** *is waiting for implementation*.
 
 **Test Suite** - which should facilitate the testing by not having to run multiple commands *is waiting for implementation*.
